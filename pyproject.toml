@@ -1,0 +1,16 @@
+[project]
+name = "script-py-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chardet>=5.2",
+    "openpyxl>=3.1",
+    "pandas>=2.1",
+    "plotly>=5.18",
+    "pydantic>=2.6",
+    "requests>=2.31",
+    "streamlit>=1.29",
+    "xlsxwriter>=3.1",
+]

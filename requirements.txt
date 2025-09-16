@@ -1,0 +1,17 @@
+# requirements.txt (Python 3.12)
+streamlit>=1.29
+pandas>=2.1
+openpyxl>=3.1
+xlsxwriter>=3.1
+chardet>=5.2
+requests>=2.31
+plotly>=5.18
+pydantic>=2.6
+
+
+# # requirements.txt (Python 3.10)
+# streamlit>=1.28.0
+# pandas>=1.5.0
+# requests>=2.28.0
+# pydantic>=2.0.0
+# openpyxl>=3.0.0
